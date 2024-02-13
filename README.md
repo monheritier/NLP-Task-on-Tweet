@@ -11,3 +11,5 @@ Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
+
+In my analysis I will use the most used neural network for NLP task: the BERT model
